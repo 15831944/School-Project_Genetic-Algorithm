@@ -9,3 +9,4 @@ This program simulates the process which finding the best solution of the Ackley
 * Decode mode : binary / real
 * Crossover mode : single / double / multiple
 * Pooling size : (Dedault) 40
+![image](img/conf.PNG)
