@@ -1,5 +1,7 @@
 # [School Project] Genetic Algorithm
 This program simulates the process which finding the best solution of the Ackley function with genetic algorithm
+
+[*]Develop in qt5.9
 ## Object function : Ackley function
 ![image](img/equ.png)
 ## Configures
